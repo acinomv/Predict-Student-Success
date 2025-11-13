@@ -16,7 +16,8 @@ The project demonstrates full-cycle data science capability: data cleaning, prep
 ---
 
 ## Dataset Description
-The dataset contains student-level academic performance, admission scores, financial information, and program details.  
+The dataset used in this project is the Predict Students’ Dropout and Academic Success dataset from the UCI Machine Learning Repository. It was originally collected from a Portuguese higher education institution and contains detailed academic, demographic, financial, and course-related information for students.
+
 Key variable categories include:
 
 - **Academic Performance**: semester grades, evaluations completed  
@@ -29,6 +30,8 @@ Key variable categories include:
   - `2` = Enrolled  
 
 Total observations: **1,328** students.
+
+This dataset provides a comprehensive view of factors affecting student academic progression and is widely used in educational data mining research.
 
 ---
 
